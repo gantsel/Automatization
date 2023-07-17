@@ -57,4 +57,5 @@
 Какие графики должны отображаться и в каком порядке, какие элементы управления должны быть на дашборде (макет дашборда):
 
 ![maquette](https://pictures.s3.yandex.net/resources/Untitled_-_2020-07-06T160925.436_1594041010.png)
+
 [**ссылка на дашборд**](https://public.tableau.com/app/profile/mikhail.gantsel/viz/Yandex_dzen_analysis/sheet0?publish=yes)
